@@ -1,0 +1,6 @@
+#Account2
+Host github.com-UserMulti_2
+  HostName github.com
+  # IgnoreUnkown UserKeychain
+  # UserKeychain yes
+    IdentityFile ~/.ssh/User_2
